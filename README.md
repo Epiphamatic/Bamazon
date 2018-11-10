@@ -1,3 +1,3 @@
 # Bamazon
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/Epiphamatic/Bamazon/blob/master/Images/b1.PNG)
