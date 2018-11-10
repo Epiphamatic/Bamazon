@@ -13,10 +13,10 @@ CREATE TABLE products (
 );
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Fake Cat Poop", "Essentials", 3.50, 5000);
+VALUES ("Fake Cat Food", "Essentials", 3.50, 5000);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Real Cat Poop", "Essentials", 6.20, 30);
+VALUES ("Real Cat Food", "Essentials", 6.20, 30);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Energizer Bunny Plushie", "Appliances", 6.50, 20);
